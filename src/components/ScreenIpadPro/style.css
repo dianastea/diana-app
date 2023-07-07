@@ -1,0 +1,63 @@
+.screen-ipad-pro {
+  border-radius: 32px;
+  height: 1024px;
+  overflow: hidden;
+  position: relative;
+  width: 1366px;
+}
+
+.screen-ipad-pro .frame {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  left: 88px;
+  position: relative;
+  top: 148px;
+  width: 368px;
+}
+
+.screen-ipad-pro .i-made-you-looked {
+  align-self: stretch;
+  font-family: "SF Pro Display-Semibold", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  letter-spacing: 0.14px;
+  line-height: 64px;
+  margin-top: -1px;
+  position: relative;
+}
+
+.screen-ipad-pro .you-can-have-the {
+  align-self: stretch;
+  font-family: "SF Pro Display-Semibold", Helvetica;
+  font-size: 34px;
+  font-weight: 400;
+  letter-spacing: 0.14px;
+  line-height: 40.8px;
+  position: relative;
+}
+
+.screen-ipad-pro.dark-mode-5-true {
+  background-color: #3a3a3a;
+}
+
+.screen-ipad-pro.dark-mode-5-false {
+  background-color: #ffffff;
+}
+
+.screen-ipad-pro.dark-mode-5-true .i-made-you-looked {
+  color: #ffffff;
+}
+
+.screen-ipad-pro.dark-mode-5-false .i-made-you-looked {
+  color: #000000de;
+}
+
+.screen-ipad-pro.dark-mode-5-true .you-can-have-the {
+  color: #ffffff80;
+}
+
+.screen-ipad-pro.dark-mode-5-false .you-can-have-the {
+  color: #00000061;
+}

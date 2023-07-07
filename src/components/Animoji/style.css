@@ -1,0 +1,1473 @@
+.animoji {
+  background-color: #b090b6;
+  height: 128px;
+  width: 128px;
+}
+
+.animoji .img {
+  position: absolute;
+}
+
+.animoji.thirty-two {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-35@2x.png);
+  background-size: 100% 100%;
+}
+
+.animoji.forty-two {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-45@2x.png);
+  background-size: 100% 100%;
+}
+
+.animoji.twenty-four {
+  position: relative;
+}
+
+.animoji.thirty-three {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-36@2x.png);
+  background-size: 100% 100%;
+}
+
+.animoji.forty-six {
+  position: relative;
+}
+
+.animoji.fifty-six {
+  position: relative;
+}
+
+.animoji.eighty-seven {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-90@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.one-hundred-and-sixteen {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-94@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.one-hundred-and-two {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-106@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.seventy-three {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-67@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.eighty-one {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-84@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.ninety-six {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-100@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.twenty-five {
+  position: relative;
+}
+
+.animoji.one {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-23@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.thirty-six {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-39@2x.png);
+  background-size: 100% 100%;
+}
+
+.animoji.sixty-three {
+  position: relative;
+}
+
+.animoji.twenty-seven {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-30@2x.png);
+  background-size: 100% 100%;
+}
+
+.animoji.one-hundred-and-ten {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-114@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.one-hundred-and-four {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-108@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.seventy-eight {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-75@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.sixteen {
+  position: relative;
+}
+
+.animoji.one-hundred {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-104@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.two {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-24@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.one-hundred-and-eleven {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-115@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.twelve {
+  position: relative;
+}
+
+.animoji.eighty-nine {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-95@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.ninety-seven {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-101@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.ten {
+  position: relative;
+}
+
+.animoji.fifty-one {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-54@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.seventy-four {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-68@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.thirty-seven {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-40@2x.png);
+  background-size: 100% 100%;
+}
+
+.animoji.fifty-four {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-57@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.fifty-three {
+  position: relative;
+}
+
+.animoji.eighty {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-77@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.forty-one {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-44@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.fifty-eight {
+  position: relative;
+}
+
+.animoji.six {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-2@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.fifty-seven {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-60@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.sixty-one {
+  position: relative;
+}
+
+.animoji.one-hundred-and-fifteen {
+  position: relative;
+}
+
+.animoji.one-hundred-and-eight {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-112@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.sixty-nine {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-82@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.seventy-five {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-64@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.twenty-eight {
+  position: relative;
+}
+
+.animoji.five {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.thirty {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-33@2x.png);
+  background-size: 100% 100%;
+}
+
+.animoji.twenty-two {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-18@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.twenty-one {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-17@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.sixty-seven {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-80@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.seventy {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-83@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.eighty-two {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-85@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.one-hundred-and-nine {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-113@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.seventy-two {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-66@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.seventy-six {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-73@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.thirty-eight {
+  position: relative;
+}
+
+.animoji.seventy-nine {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-76@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.one-hundred-and-six {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-110@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.ninety-three {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-93@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.fourteen {
+  position: relative;
+}
+
+.animoji.sixty-five {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-78@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.thirteen {
+  position: relative;
+}
+
+.animoji.forty-four {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-47@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.ninety-nine {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-103@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.eighty-eight {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-91@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.thirty-four {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-37@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.ninety-eight {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-102@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.fifty-nine {
+  position: relative;
+}
+
+.animoji.ninety {
+  position: relative;
+}
+
+.animoji.sixty-six {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-79@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.three {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-25@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.eleven {
+  position: relative;
+}
+
+.animoji.thirty-one {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-34@2x.png);
+  background-size: 100% 100%;
+}
+
+.animoji.eighty-three {
+  position: relative;
+}
+
+.animoji.sixty-two {
+  position: relative;
+}
+
+.animoji.eighty-five {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-88@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.forty-five {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-48@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.one-hundred-and-fourteen {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-118@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.sixty-four {
+  position: relative;
+}
+
+.animoji.eighteen {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-14@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.thirty-nine {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-42@2x.png);
+  background-size: 100% 100%;
+}
+
+.animoji.ninety-four {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-97@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.twenty-three {
+  position: relative;
+}
+
+.animoji.twenty-nine {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-32@2x.png);
+  background-size: 100% 100%;
+}
+
+.animoji.forty {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-43@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.eight {
+  position: relative;
+}
+
+.animoji.one-hundred-and-five {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-109@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.twenty {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-16@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.ninety-two {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-92@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.fifty-two {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-55@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.one-hundred-and-seven {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-111@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.forty-three {
+  position: relative;
+}
+
+.animoji.fifty-five {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-58@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.fifty {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-53@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.seventy-one {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-65@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.one-hundred-and-twelve {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-116@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.seventy-seven {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-74@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.one-hundred-and-thirteen {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-117@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.twenty-six {
+  position: relative;
+}
+
+.animoji.sixty {
+  position: relative;
+}
+
+.animoji.one-hundred-and-one {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-105@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.seven {
+  position: relative;
+}
+
+.animoji.fifteen {
+  position: relative;
+}
+
+.animoji.sixty-eight {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-81@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.eighty-four {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-87@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.nine {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-5@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.eighty-six {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-89@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.nineteen {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-15@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.ninety-five {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-99@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.seventeen {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-13@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.forty-nine {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-52@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.one-hundred-and-three {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-107@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.forty-seven {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-50@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.ninety-one {
+  position: relative;
+}
+
+.animoji.forty-eight {
+  position: relative;
+}
+
+.animoji.thirty-five {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-38@2x.png);
+  background-size: 100% 100%;
+}
+
+.animoji.four {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-26@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.animoji.thirty-two .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.forty-two .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.twenty-four .img {
+  height: 123px;
+  left: 3px;
+  object-fit: cover;
+  top: 5px;
+  width: 123px;
+}
+
+.animoji.thirty-three .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.forty-six .img {
+  height: 124px;
+  left: 0;
+  object-fit: cover;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.fifty-six .img {
+  height: 124px;
+  left: 0;
+  object-fit: cover;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.eighty-seven .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.one-hundred-and-sixteen .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.one-hundred-and-two .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.seventy-three .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.eighty-one .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.ninety-six .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.twenty-five .img {
+  height: 120px;
+  left: 4px;
+  object-fit: cover;
+  top: 8px;
+  width: 120px;
+}
+
+.animoji.one .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.thirty-six .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.sixty-three .img {
+  height: 123px;
+  left: 0;
+  object-fit: cover;
+  top: 5px;
+  width: 128px;
+}
+
+.animoji.twenty-seven .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.one-hundred-and-ten .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.one-hundred-and-four .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.seventy-eight .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.sixteen .img {
+  height: 124px;
+  left: 0;
+  object-fit: cover;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.one-hundred .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.two .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.one-hundred-and-eleven .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.twelve .img {
+  height: 124px;
+  left: 0;
+  object-fit: cover;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.eighty-nine .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.ninety-seven .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.ten .img {
+  height: 122px;
+  left: 2px;
+  object-fit: cover;
+  top: 6px;
+  width: 124px;
+}
+
+.animoji.fifty-one .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.seventy-four .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.thirty-seven .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.fifty-four .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.fifty-three .img {
+  height: 123px;
+  left: 0;
+  object-fit: cover;
+  top: 5px;
+  width: 128px;
+}
+
+.animoji.eighty .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.forty-one .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.fifty-eight .img {
+  height: 126px;
+  left: 0;
+  object-fit: cover;
+  top: 2px;
+  width: 128px;
+}
+
+.animoji.six .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.fifty-seven .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.sixty-one .img {
+  height: 120px;
+  left: 1px;
+  object-fit: cover;
+  top: 8px;
+  width: 127px;
+}
+
+.animoji.one-hundred-and-fifteen .img {
+  height: 119px;
+  left: 0;
+  object-fit: cover;
+  top: 9px;
+  width: 128px;
+}
+
+.animoji.one-hundred-and-eight .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.sixty-nine .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.seventy-five .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.twenty-eight .img {
+  height: 124px;
+  left: 0;
+  object-fit: cover;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.five .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.thirty .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.twenty-two .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.twenty-one .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.sixty-seven .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.seventy .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.eighty-two .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.one-hundred-and-nine .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.seventy-two .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.seventy-six .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.thirty-eight .img {
+  height: 126px;
+  left: 0;
+  top: 2px;
+  width: 128px;
+}
+
+.animoji.seventy-nine .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.one-hundred-and-six .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.ninety-three .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.fourteen .img {
+  height: 125px;
+  left: 0;
+  object-fit: cover;
+  top: 3px;
+  width: 128px;
+}
+
+.animoji.sixty-five .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.thirteen .img {
+  height: 126px;
+  left: 0;
+  object-fit: cover;
+  top: 2px;
+  width: 128px;
+}
+
+.animoji.forty-four .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.ninety-nine .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.eighty-eight .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.thirty-four .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.ninety-eight .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.fifty-nine .img {
+  height: 126px;
+  left: 0;
+  object-fit: cover;
+  top: 2px;
+  width: 128px;
+}
+
+.animoji.ninety .img {
+  height: 114px;
+  left: 0;
+  object-fit: cover;
+  top: 14px;
+  width: 128px;
+}
+
+.animoji.sixty-six .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.three .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.eleven .img {
+  height: 122px;
+  left: 0;
+  object-fit: cover;
+  top: 6px;
+  width: 128px;
+}
+
+.animoji.thirty-one .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.eighty-three .img {
+  height: 124px;
+  left: 0;
+  object-fit: cover;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.sixty-two .img {
+  height: 122px;
+  left: 1px;
+  object-fit: cover;
+  top: 6px;
+  width: 127px;
+}
+
+.animoji.eighty-five .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.forty-five .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.one-hundred-and-fourteen .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.sixty-four .img {
+  height: 118px;
+  left: 0;
+  object-fit: cover;
+  top: 10px;
+  width: 128px;
+}
+
+.animoji.eighteen .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.thirty-nine .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.ninety-four .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.twenty-three .img {
+  height: 124px;
+  left: 2px;
+  object-fit: cover;
+  top: 4px;
+  width: 124px;
+}
+
+.animoji.twenty-nine .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.forty .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.eight .img {
+  height: 121px;
+  left: 0;
+  object-fit: cover;
+  top: 7px;
+  width: 128px;
+}
+
+.animoji.one-hundred-and-five .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.twenty .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.ninety-two .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.fifty-two .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.one-hundred-and-seven .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.forty-three .img {
+  height: 126px;
+  left: 0;
+  object-fit: cover;
+  top: 2px;
+  width: 128px;
+}
+
+.animoji.fifty-five .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.fifty .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.seventy-one .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.one-hundred-and-twelve .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.seventy-seven .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.one-hundred-and-thirteen .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.twenty-six .img {
+  height: 125px;
+  left: 0;
+  top: 3px;
+  width: 128px;
+}
+
+.animoji.sixty .img {
+  height: 126px;
+  left: 0;
+  object-fit: cover;
+  top: 2px;
+  width: 128px;
+}
+
+.animoji.one-hundred-and-one .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.seven .img {
+  height: 122px;
+  left: 3px;
+  object-fit: cover;
+  top: 6px;
+  width: 122px;
+}
+
+.animoji.fifteen .img {
+  height: 118px;
+  left: 0;
+  object-fit: cover;
+  top: 10px;
+  width: 128px;
+}
+
+.animoji.sixty-eight .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.eighty-four .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.nine .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.eighty-six .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.nineteen .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.ninety-five .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.seventeen .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.forty-nine .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.one-hundred-and-three .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.forty-seven .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.ninety-one .img {
+  height: 120px;
+  left: 0;
+  object-fit: cover;
+  top: 8px;
+  width: 128px;
+}
+
+.animoji.forty-eight .img {
+  height: 116px;
+  left: 0;
+  object-fit: cover;
+  top: 12px;
+  width: 128px;
+}
+
+.animoji.thirty-five .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}
+
+.animoji.four .img {
+  height: 124px;
+  left: 0;
+  top: 4px;
+  width: 128px;
+}

@@ -1,0 +1,95 @@
+.element-navigation {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  position: relative;
+  width: fit-content;
+}
+
+.element-navigation .buttons {
+  align-items: center;
+  border-radius: 12px;
+  display: flex;
+  overflow: hidden;
+  padding: 12px 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.element-navigation .option {
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  letter-spacing: 0.07px;
+  line-height: 22px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element-navigation .highlighter {
+  position: relative;
+}
+
+.element-navigation .dark-mode-false.selected-hover {
+  color: #000000de;
+}
+
+.element-navigation .dark-mode-false.hover {
+  color: #00000099;
+}
+
+.element-navigation .dark-mode-true.selected-default {
+  color: #ffffff;
+}
+
+.element-navigation .dark-mode-true.hover {
+  color: #ffffffb2;
+}
+
+.element-navigation .dark-mode-false.selected-default {
+  color: #000000de;
+}
+
+.element-navigation .unselected.dark-mode-true {
+  color: #ffffffb2;
+}
+
+.element-navigation .dark-mode-false.unselected {
+  color: #00000099;
+}
+
+.element-navigation .dark-mode-true.selected-hover {
+  color: #ffffff;
+}
+
+.element-navigation .states-selected-hover {
+  height: 5px;
+  min-width: 12px;
+}
+
+.element-navigation .states-hover {
+  height: 5px;
+  min-width: 12px;
+}
+
+.element-navigation .states-selected-default {
+  height: 5px;
+  min-width: 6px;
+}
+
+.element-navigation .states-unselected {
+  height: 0;
+  margin-bottom: -14478px;
+  min-width: 6px;
+}
+
+.element-navigation .states-unselected.dark-mode-0-true {
+  margin-right: -1146.5px;
+}
+
+.element-navigation .dark-mode-0-false.states-unselected {
+  margin-right: -1622.5px;
+}

@@ -1,0 +1,65 @@
+.gradients.type {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.gradients.gradient-wrapper {
+  height: 400px;
+  position: relative;
+  width: 400px;
+}
+
+.gradients .gradient {
+  height: 396px;
+  left: 10px;
+  position: relative;
+  width: 381px;
+}
+
+.gradients .overlap-group {
+  height: 396px;
+  position: relative;
+}
+
+.gradients .eclipse {
+  background: linear-gradient(180deg, rgba(0, 193.8, 255, 0.46) 0%, rgba(254.82, 0, 137.6, 0.28) 100%);
+  border-radius: 190.4px/178.8px;
+  filter: blur(200px);
+  height: 358px;
+  left: 0;
+  position: absolute;
+  top: 38px;
+  width: 381px;
+}
+
+.gradients .planet {
+  background: linear-gradient(180deg, rgba(0, 193.8, 255, 0.44) 0%, rgb(180.46, 4.17, 99.37) 100%);
+  border-radius: 112.8px/108.8px;
+  filter: blur(200px);
+  height: 218px;
+  left: 78px;
+  position: absolute;
+  top: 0;
+  width: 226px;
+}
+
+.gradients.type-one {
+  height: 763px;
+  width: 770px;
+}
+
+.gradients.type-three {
+  height: 862px;
+  width: 717px;
+}
+
+.gradients.type-two {
+  height: 763px;
+  width: 770px;
+}
+
+.gradients.type-four {
+  height: 784px;
+  width: 710px;
+}

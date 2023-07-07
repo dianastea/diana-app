@@ -1,0 +1,73 @@
+.dark-mode-false-wrapper {
+  align-items: center;
+  border-radius: 12px;
+  display: flex;
+  overflow: hidden;
+  padding: 13px 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.dark-mode-false-wrapper .primary-2 {
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  letter-spacing: 0.07px;
+  line-height: 22px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dark-mode-false-wrapper.dark-mode-3-true.states-hover-over.button-types-0-primary {
+  background-color: #bdbdbd;
+}
+
+.dark-mode-false-wrapper.dark-mode-3-false.button-types-0-secondary.states-default {
+  -webkit-backdrop-filter: blur(100px) brightness(100%);
+  backdrop-filter: blur(100px) brightness(100%);
+  background-color: #ffffff80;
+}
+
+.dark-mode-false-wrapper.dark-mode-3-false.states-hover-over.button-types-0-primary {
+  background-color: #4f4f4f;
+  box-shadow: 0px 16px 24px #0000001f;
+}
+
+.dark-mode-false-wrapper.dark-mode-3-true.button-types-0-secondary.states-default {
+  background-color: #2a2a2a;
+}
+
+.dark-mode-false-wrapper.dark-mode-3-false.states-hover-over.button-types-0-secondary {
+  background-color: #ffffff;
+  box-shadow: 0px 12px 24px #00000014;
+}
+
+.dark-mode-false-wrapper.dark-mode-3-true.button-types-0-primary.states-default {
+  background-color: #ffffff;
+}
+
+.dark-mode-false-wrapper.dark-mode-3-true.states-hover-over.button-types-0-secondary {
+  background-color: #3a3a3a;
+}
+
+.dark-mode-false-wrapper.dark-mode-3-false.button-types-0-primary.states-default {
+  background-color: #2a2a2a;
+}
+
+.dark-mode-false-wrapper.dark-mode-3-false.button-types-0-secondary .primary-2 {
+  color: #000000de;
+}
+
+.dark-mode-false-wrapper.dark-mode-3-false.button-types-0-primary .primary-2 {
+  color: #ffffff;
+}
+
+.dark-mode-false-wrapper.dark-mode-3-true.button-types-0-primary .primary-2 {
+  color: #000000de;
+}
+
+.dark-mode-false-wrapper.dark-mode-3-true.button-types-0-secondary .primary-2 {
+  color: #ffffff;
+}

@@ -1,0 +1,1 @@
+export { ScreenIpadPro } from "./ScreenIpadPro";

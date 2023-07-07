@@ -1,0 +1,51 @@
+.element-emoji {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 56px;
+  position: relative;
+  width: 56px;
+}
+
+.element-emoji.insights {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-54-1@2x.png);
+}
+
+.element-emoji.personal-project {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-657@2x.png);
+}
+
+.element-emoji.folio {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-1277@2x.png);
+}
+
+.element-emoji.truth {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/emoji-false@2x.png);
+}
+
+.element-emoji.article {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-989@2x.png);
+}
+
+.element-emoji.thoughts {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-1759@2x.png);
+}
+
+.element-emoji.contact {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-1001@2x.png);
+}
+
+.element-emoji.lie {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/emoji-true@2x.png);
+}
+
+.element-emoji.image {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-1655@2x.png);
+}
+
+.element-emoji.designer {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/portrait@2x.png);
+}
+
+.element-emoji.goal {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/54bef66a4aaf35a5c6af4d52b3f63822/img/image-1310-1@2x.png);
+}
